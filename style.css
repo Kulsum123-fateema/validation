@@ -1,0 +1,23 @@
+
+label{
+    font-weight: bolder;
+}
+h2{
+    color: #16a8a8;
+}
+h1{
+    font-size: 70px;
+    text-align: left;
+    margin-top: 20px;
+    color: #16a8a8;
+}
+.heading{
+    border:solid #16a8a8;
+}
+.orng{
+    color: orangered;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+    
